@@ -1,0 +1,4 @@
+{:deps {org.clojure/clojure {:mvn/version "1.10.1"}
+        org.clojure/tools.cli {:mvn/version "1.0.206"}
+        clj-kondo/clj-kondo {:mvn/version "2022.01.15"}
+        aysylu/loom {:mvn/version "1.0.2"}}}
